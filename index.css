@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  background-color: darkkhaki;
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  color: wh;
+}
